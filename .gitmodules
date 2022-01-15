@@ -1,0 +1,3 @@
+[submodule "tea_cozy"]
+	path = tea_cozy
+	url = https://github.com/Iskandar-S/tea_cozy.git
